@@ -1,108 +1,60 @@
-- Name: Michael Chasen
-  Role: founder
-  Company: Blackboard
-- Name: Daniel Cane
-  Role: founder
-  Company: Blackboard
-- Name: Stephen Gilfus
-  Role: founder
-  Company: Blackboard
-- Name: Matthew Pittinsky
-  Role: founder
-  Company: Blackboard
-- Name: Bill Baullhaus
+- Name: Mark Zuckerberg
+  Organization: Facebook
   Role: CEO
-  Company: Blackboard
-- Name: Tim Tomlinson
-  Role: Chief Product Officer
-  Company: Blackboard
-- Name: Jay Bhatt
-  Role: CEO
-  Company: Blackboard
-- Name: Ray Henderson
-  Role: President of Learning Platforms
-  Company: Blackboard
-- Name: Maurice Heiblum
-  Role: SVP Higher Education
-  Company: Blackboard
-- Name: Mark Belles
-  Role: SVP K-12
-  Company: Blackboard
-- Name: David Marr
-  Role: SVP Transact
-  Company: Blackboard
-- Name: Gary Lang
-  Role: SVP Product Development
-  Company: Blackboard
-- Name: Katie Blot
-  Role: SVP Educational Services
-  Company: Blackboard
-- Name: Mark Strassman
-  Role: SVP Industry and Product
-  Company: Blackboard
-- Name: Bill Davis
-  Role: CFO
-  Company: Blackboard
-- Name: Michael Bisignano
-  Role: SVP General Counsel
-  Company: Blackboard
-- Name: Denise Haselhorst
-  Role: SVP Human Resources
-  Company: Blackboard
-- Name: Tracey Stout
-  Role: SVP Marketing
-  Company: Blackboard
-- Name: Brad Koch
-  Role: VP Product Management
-  Company: Blackboard
-- Name: David Ashman
-  Role: VP Chief Architect
-  Company: Blackboard
-- Name: Mark Drechsler
-  Role: Senior Director
-  Company: Blackboard
-- Name: Matthew Pittinsky
-  Role: CEO
-  Company: Parchment
-- Name: Matthew Pittinsky
-  Role: investor
-  Company: Picmonic
-- Name: Matthew Pittinsky
-  Role: investor
-  Company: CampusLogic
-- Name: Matthew Pittinsky
-  Role: investor
-  Company: Interfolio
-- Name: Matthew Pittinsky
-  Role: investor
-  Company: Parchment
-- Name: Matthew Pittinsky
-  Role: founder
-  Company: Parchment
-- Name: Michael Chasen
-  Role: CEO
-  Company: PrecisionHawk
-- Name: Michael Chasen
-  Role: CEO
-  Company: SocialRadar
-- Name: Michael Chasen
-  Role: founder
-  Company: SocialRadar
-- Name: Michael Chasen
-  Role: investor
-  Company: Territory
-- Name: Michael Chasen
-  Role: investor
-  Company: nvite
-- Name: Michael Chasen
-  Role: investor
-  Company: Speek
-- Name: Michael Chasen
-  Role: investor
-  Company: popexpert
-- Name: Michael Chasen
-  Role: investor
-  Company: Parchment
-- Name: Michael Chasen
-  Role: investor
-  Company: Everfi
+  Notes: ''
+- Name: Mark Zuckerberg
+  Organization: Chan Zuckerberg Initiative
+  Role: Co-founder
+  Notes: ''
+- Name: Priscilla Chan
+  Organization: Chan Zuckerberg Initiative
+  Role: Co-founder
+  Notes: ''
+- Name: Jim Shelton
+  Organization: Chan Zuckerberg Initiative
+  Role: 'President, Education'
+  Notes: ''
+- Name: Jim Shelton
+  Organization: US Department of Education
+  Role: Deputy Secretary
+  Notes: ''
+- Name: Jim Shelton
+  Organization: 2U
+  Role: 'President, Chief Impact Officer'
+  Notes: ''
+- Name: Jim Shelton
+  Organization: Bill & Melinda Gates Foundation
+  Role: Program Manager
+  Notes: ''
+- Name: Jim Shelton
+  Organization: NewSchool Venture Fund
+  Role: Partner
+  Notes: ''
+- Name: Jim Shelton
+  Organization: Knowledge Universe
+  Role: Director
+  Notes: ''
+- Name: Jim Shelton
+  Organization: LearnNow
+  Role: Co-founder
+  Notes: ''
+- Name: Jim Shelton
+  Organization: Edison Schools
+  Role: President
+  Notes: ''
+- Name: Jim Shelton
+  Organization: McKinsey & Company
+  Role: Senior Engagement Manager
+  Notes: ''
+- Name: Jim Shelton
+  Organization: Exxon
+  Role: Senior Program Analyst
+  Notes: ''
+- Name: Jim Shelton
+  Organization: Stanford University
+  Role: 'Masters, Education'
+  Notes: ''
+- Name: Mark Zuckerberg
+  Organization: Harvard University
+  Role: dropout
+  Notes: ''
