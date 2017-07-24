@@ -1,3 +1,3 @@
-### Chan-Zuckerberg Initiative
+## Data about the Chan Zuckerberg Initiative
 
-This is a Hack Education project, tracking data about the Chan-Zuckerberg initiative.
+This is a Hack Education project, tracking the financial and social networks of CZI
