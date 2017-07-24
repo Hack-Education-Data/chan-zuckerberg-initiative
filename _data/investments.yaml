@@ -1,44 +1,24 @@
-- Name: WebCT
-  Date: '2006'
-- Name: Fronteer LTD
+- Name: Andela
   Date: '2016'
-- Name: Higher One
+  Amount: '$24,000,000'
+  Notes: venture capital; data from Crunchbase
+- Name: BYJUs
   Date: '2016'
-- Name: Sequoia Retail Systems
+  Amount: '$50,000,000'
+  Notes: venture capital; data from Crunchbase
+- Name: PowerMyLearning
   Date: '2016'
-- Name: Blue Canary
-  Date: '2015'
-- Name: Nivel Siete
-  Date: '2015'
-- Name: X-Ray Analytics
-  Date: '2015'
-- Name: Schoolwires
-  Date: '2015'
-- Name: ParentLink
-  Date: '2014'
-- Name: Saypage
-  Date: '2014'
-- Name: CardSmith
-  Date: '2014'
-- Name: Perceptis
-  Date: '2014'
-- Name: MyEdu
-  Date: '2014'
-- Name: Moodlerooms
-  Date: '2012'
-- Name: NetSpot
-  Date: '2012'
-- Name: Edline
-  Date: '2011'
-- Name: Presidium Learning
-  Date: '2011'
-- Name: Wimba
-  Date: '2010'
-- Name: Elluminate
-  Date: '2010'
-- Name: Saf-T-Net
-  Date: '2010'
-- Name: Terriblyclever Design
-  Date: '2009'
-- Name: ANGEL Learning Inc
-  Date: '2009'
+  Amount: '$1,200,000'
+  Notes: grant; data from Crunchbase
+- Name: MasteryConnect
+  Date: '2016'
+  Amount: '$5,000,000'
+  Notes: venture capital; data from Crunchbase
+- Name: Brightwheel
+  Date: '2017'
+  Amount: '$10,000,000'
+  Notes: venture capital; data from Crunchbase
+- Name: Landed
+  Date: '2017'
+  Amount: '$5,000,000'
+  Notes: venture capital; data from Crunchbase
