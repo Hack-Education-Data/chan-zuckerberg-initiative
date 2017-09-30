@@ -4,12 +4,17 @@
 - Name: BYJUs
   Date: '2016'
   Notes: $50 million in Series D
-- Name: PowerMyLearning
+- Name: Code.org
   Date: '2016'
-  Notes: $1.2 million grant
+  Notes: >-
+    $23 million grant. Crunchbase lists grant funders as Mark Zuckerberg,
+    Priscilla Chan, Google, Infosys, and Microsoft
 - Name: MasteryConnect
   Date: '2016'
   Notes: $5 million in Series C
+- Name: PowerMyLearning
+  Date: '2016'
+  Notes: $1.2 million grant
 - Name: Brightwheel
   Date: '2017'
   Notes: $10 million in Series A
@@ -19,14 +24,12 @@
 - Name: Sawyer
   Date: '2017'
   Notes: $6 million in Series A
-- Name: Digital Promise
-  Date: Unknown
-  Notes: Unknown
 - Name: Bridge International Academies
   Date: Unknown
   Notes: Unknown
-- Name: Code.org
-  Date: '2016'
-  Notes: >-
-    $23 million grant. Crunchbase lists grant funders as Mark Zuckerberg,
-    Priscilla Chan, Google, Infosys, and Microsoft
+- Name: Digital Promise
+  Date: Unknown
+  Notes: Unknown
+- Name: Edsurge
+  Date: Unknown
+  Notes: Unknown
